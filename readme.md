@@ -24,15 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Hello World!  I am <b>Xenon<a target="_blank" href="javascript:;"></a></b>
-
-
-- :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: Highlights of my successful endeavors.
-
-
 <br/>
 <br/>
 <br/>
@@ -131,6 +122,4 @@ Linux                    0 secs              ░░░░░░░░░░░�
 相盘结，性命坚，却能火里种金莲。 
 攒簇五行颠倒用，功完随作佛和仙。
 
-<p align="center">
-<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
+

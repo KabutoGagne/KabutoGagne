@@ -1,4 +1,67 @@
 kabutogagne/README.md
 Hi there 👋
 
- ![Metrics](https://metrics.lecoq.io/<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic?template=classic&base.activity=0&base.community=0&base.metadata=0&lines=1&stargazers=1&topics=1&habits=1&stars=1&traffic=1&steam=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stargazers=false&stargazers.days=20&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&traffic=false&steam=false&steam.sections=kabutogagne%2C%20overwatch%2C%20hearthstone&steam.user=chen1021667792&steam.games.ignored=81&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&fortune=false&config.timezone=Asia%2FShanghai)
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Shanghai
+          plugin_fortune: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 20
+          plugin_stargazers_worldmap: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_ignored: 81
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: kabutogagne, overwatch, hearthstone
+          plugin_steam_user: chen1021667792
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_traffic: yes

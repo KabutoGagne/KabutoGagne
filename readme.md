@@ -39,18 +39,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 ---
 
-
 ---
 
 ### 📊 WakaTime
-<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C835%20hrs%2054%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,26 +91,17 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 
 
-
- Last Updated on 11/03/2025 18:43:43 UTC
-<!--END_SECTION:waka-->
-
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
-
----
-
-
 ### writings
-在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
+   在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
 
 ### Decree🙏
-显密圆通真妙诀，惜修性命无他说。 
-都来总是精气神，谨固牢藏休漏泄。 
-休漏泄，体中藏，汝受吾传道自昌。 
-口诀记来多有益，屏除邪欲得清凉。 
-得清凉，光皎洁，好向丹台赏明月。 
-月藏玉兔日藏乌，自有龟蛇相盘结。 
-相盘结，性命坚，却能火里种金莲。 
-攒簇五行颠倒用，功完随作佛和仙。
+显密圆通真妙诀，惜修性命无他说。\
+都来总是精气神，谨固牢藏休漏泄。\
+休漏泄，体中藏，汝受吾传道自昌。\ 
+口诀记来多有益，屏除邪欲得清凉。\
+得清凉，光皎洁，好向丹台赏明月。\
+月藏玉兔日藏乌，自有龟蛇相盘结。\
+相盘结，性命坚，却能火里种金莲。\
+攒簇五行颠倒用，功完随作佛和仙。\
 
 

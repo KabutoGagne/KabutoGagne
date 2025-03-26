@@ -10,6 +10,8 @@
 
   ---
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KabutoGagne)
+
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -28,16 +30,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Writings
->   在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
-
-
----
-
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)th visitor
-
-
 ---
 
 <!-- 贪吃蛇 -->
@@ -45,63 +37,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 
 ---
-
-
----
-
-
-**🐱 My GitHub Data** 
-
-> 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
-🌙 Night                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-```
-
-
-
-📊 **I usually Spend My Time On** 
-
-```text
-
-💬 Programming Languages: 
-Other                    12 hrs 56 mins      █████████████████████████   99.02 % 
-C+                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 4 mins       ████████████░░░░░░░░░░░░░   35.60 %
-photoshop                9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   32.01 %
-cad                      9 hrs 53 mins       ███████████░░░░░░░░░░░░░░   32.39 % 
-
-🐱‍💻 Projects: 
-get_subscribe            9 hrs 24 mins       ██████████████████░░░░░░░   72.01 % 
-RemoteCamera             3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-download-manager         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Easycontrol              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-MacOs                    9 hrs 24 mins       ██████████████████░░░░░░░   72.01 %
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-
-
-
----
-
 
 ### Decree🙏
 显密圆通真妙诀，惜修性命无他说\
@@ -112,3 +47,12 @@ Linux                    0 secs              ░░░░░░░░░░░�
 月藏玉兔日藏乌，自有龟蛇相盘结\
 相盘结，性命坚，却能火里种金莲\
 攒簇五行颠倒用，功完随作佛和仙
+<br/>
+<br/>
+
+![KabutoGagne's GitHub stats](https://github-immortality.vercel.app/api?username=KabutoGagne)
+
+
+
+
+
